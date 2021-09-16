@@ -30,8 +30,11 @@
 <img src="https://i.ibb.co/2gB9Hkc/codar-mobile.png" width="380" height="380">
 <img src="https://i.ibb.co/wpnzvcs/codar-desktop.jpg" width="580" height="380">
 
-<img src="./assets/Sreenshot.png" width="580" height="380">
-<img src="./assets/Sreenshot_mobile.png" width="580" height="380">
+[alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+
+![screenshot](/assets/Sreenshot.png)
+![screenshot](/assets/Sreenshot_mobile.png)
 
 
 # Techs: 
